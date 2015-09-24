@@ -11,6 +11,8 @@ Run fixreg_vita to fix the registry.
 
 The tool will also extract each registry blocks in the directory 'seg'. The blocks can't be edited from this directory, you need to patch system.dreg directly.
 
+The patched system.dreg will be placed in the same directory, under the name "system_.dreg"
+
 # Credit
 
 Adapted from PSP to PSVita by **Major_Tom**.
